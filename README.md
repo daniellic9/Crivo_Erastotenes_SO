@@ -47,13 +47,13 @@ O funcionamento do crivo é da seguinte forma:
 # Exemplo
 Para executar: Abra o terminal na pasta dos arquivos e dê um "make";
 
-./trab1 n m
+`./trab1 n m`
 
 onde n é o número máximo que deve ser testado e m é o tamanho do buffers entre as threads.
 A thread de resultados imprime as informações sobre cada número testado, em ordem. Assim, se o número for primo ele deve ser indicado como tal, juntamente com a sieve aonde ele ficou armazenado. Se o número não for primo, essa informação¸ também deve ser impressa. 
 Dessa forma, por exemplo, se executarmos
 
-/trab1 10 2, 
+`./trab1 10 2 `
 
 teremos como resposta no terminal:
 2 is prime (stored in sieve 0)
@@ -67,4 +67,4 @@ teremos como resposta no terminal:
 10 divided by 2 at sieve 0
 
 # Colaboradores
-Trablho realizado por Elyabe Alves, Thayza Sacconi e Danielli Costa.
+Trabalho realizado por [Elyabe Alves](https://github.com/Elyabe), [Thayza Sacconi](https://github.com/ThayzaSacconi) e [Danielli Costa](https://github.com/daniellic9).
